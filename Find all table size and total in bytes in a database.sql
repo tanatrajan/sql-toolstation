@@ -1,3 +1,4 @@
+// change this databasename 
 use ActiveTextTest
 go
 
