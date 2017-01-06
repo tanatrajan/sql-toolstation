@@ -1,4 +1,4 @@
-// change this databasename 
+// change ActiveTextTest to your targer databasename 
 use ActiveTextTest
 go
 
