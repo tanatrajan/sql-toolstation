@@ -1,3 +1,4 @@
+// change ReportServer to your target database
 use ReportServer
 go
 with cte as (
