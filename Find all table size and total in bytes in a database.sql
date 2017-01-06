@@ -1,4 +1,4 @@
-// change ActiveTextTest to your targer databasename 
+// change ActiveTextTest to your target databasename 
 use ActiveTextTest
 go
 
